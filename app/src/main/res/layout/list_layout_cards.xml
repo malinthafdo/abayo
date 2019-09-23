@@ -19,23 +19,24 @@
             android:text="Belal Khan"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
+
         <TextView
             android:id="@+id/textViewCardNumber"
-            android:layout_width="wrap_content"
+            android:layout_width="132dp"
             android:layout_height="wrap_content"
             android:text="XXXXX"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
         <TextView
             android:id="@+id/textViewCardType"
-            android:layout_width="wrap_content"
+            android:layout_width="132dp"
             android:layout_height="wrap_content"
             android:text="Visa"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
         <TextView
             android:id="@+id/textViewPhoneNumber"
-            android:layout_width="wrap_content"
+            android:layout_width="131dp"
             android:layout_height="wrap_content"
             android:text="XXX-XXXXXXX"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
@@ -53,8 +54,6 @@
             android:layout_height="wrap_content"
             android:text="XXX"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
-
-
 
 
     </LinearLayout>
