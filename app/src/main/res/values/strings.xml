@@ -1,0 +1,13 @@
+<resources>
+    <array name="cards">
+        <item>MasterCard</item>
+        <item>American Express</item>
+        <item>Visa</item>
+        <item>Chase</item>
+        <item>HSBC Gold</item>
+    </array>
+    <string name="app_name">card_payment</string>
+    <string name="search_title">Search here</string>
+
+
+</resources>
