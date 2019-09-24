@@ -97,7 +97,7 @@ public class CardActivity extends AppCompatActivity {
             @Override
             public boolean onQueryTextSubmit(String s) {
                  key = s;
-                 search.setText(searchView.getQuery());
+                 //search.setText(searchView.getQuery());
                 Toast.makeText(CardActivity.this, "Search Results for "+s, Toast.LENGTH_LONG).show();
                 return true;
             }
@@ -105,7 +105,7 @@ public class CardActivity extends AppCompatActivity {
             @Override
             public boolean onQueryTextChange(String s) {
                 key = s;
-                search.setText(searchView.getQuery());
+                //search.setText(searchView.getQuery());
                 Toast.makeText(CardActivity.this,  "Search Results for "+s, Toast.LENGTH_LONG).show();
                 return false;
             }
